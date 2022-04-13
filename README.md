@@ -50,7 +50,7 @@ https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-TripsbyGenderWee
 
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
 
-![deliv2-user-trips-by-Gender-by_weekday.png(https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-user-trips-by-Gender-by_weekday.png)
+![deliv2-user-trips-by-Gender-by_weekday.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-user-trips-by-Gender-by_weekday.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday
 
 
