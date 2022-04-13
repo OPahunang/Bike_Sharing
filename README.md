@@ -3,7 +3,8 @@
 ## Overview:
 
 The project is about data visualization of bike sharing business in New York City, City Bike. The result of the analysis will be presented to possible investor that might be interested in providing funding to a bike-share program in Des Moines. 
-The analysis used pandas for data cleaning and Tableau for data visualization.  
+
+The tools used are pandas for data cleaning and Tableau for data visualization.  
 
 ## Results:
 
