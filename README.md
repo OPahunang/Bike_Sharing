@@ -64,7 +64,7 @@ As shown on the graph, male primary renting bike during weekdays 6am to 9am and 
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday
 
 
-As shown in the graph, bike sharing mostly men subscriber druing weekdays
+As shown in the graph, bike sharing mostly men subscriber during weekdays
 
 
 ### Deliverable 3 Requirements
@@ -75,8 +75,16 @@ As shown in the graph, bike sharing mostly men subscriber druing weekdays
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-UsertypeGenderBreakdown/UsertypeGenderBreakdown
 
 
+Another representation of graph showing usertype and gender
+
+
+
 ![deliv3-usertype_start_station_name.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv3-usertype_start_station_name.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-UsertypeStartStationName/UsertypeStartStationName
+
+
+Graph showing usertype and start station name   
+
 
 - Story  
 
@@ -85,3 +93,7 @@ https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-Story1/Story1
 
 
 ## Summary:
+
+As a summary bike sharing are popular as a subscriber and male gender. Peak hours during weekdays are 5pm to 7pm and 6am to 9am. Ideal bike maintenance will be during 2am to 4am on any given day. 
+
+
