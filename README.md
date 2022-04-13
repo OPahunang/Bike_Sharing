@@ -29,11 +29,15 @@ The tools used are pandas for data cleaning and Tableau for data visualization.
 ![deliv2-checkout-times-for-Users.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-checkout-times-for-Users.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-CheckoutTimesforUsers/CheckoutTimesforUsers
 
+As shown in the graph vast majority of bike usage is under 15 minutes
+
 
 - There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
 
 ![deliv2-checkout-times-by-Gender.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-checkout-times-by-Gender.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-CheckoutTimesbyGender/CheckoutTimesbyGender
+
+As shown in the graph, men are majority using bike rentals
 
 
 - A heatmap is created showing the number of bike trips for each hour of each day of the week
@@ -42,10 +46,16 @@ https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-CheckoutTimesbyG
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-TripsbyWeekdayforEachHour/TripsbyWeekdayforEachHour
 
 
+As shown in the graph, bike rentals peak on weekdays from 5pm to 7pm and on weekends from 10am to 7pm 
+
+
 - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender 
 
 ![deliv2-trips-by-Gender-Weekday_per_Hour.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-trips-by-Gender-Weekday_per_Hour.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-TripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour
+
+
+As shown on the graph, male primary renting bike during weekdays 6am to 9am and 5pm to 7pm.
 
 
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
@@ -53,6 +63,8 @@ https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-TripsbyGenderWee
 ![deliv2-user-trips-by-Gender-by_weekday.png](https://github.com/OPahunang/Bike_Sharing/blob/main/resources/deliv2-user-trips-by-Gender-by_weekday.png)
 https://public.tableau.com/app/profile/o.pahunang/viz/Challenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday
 
+
+As shown in the graph, bike sharing mostly men subscriber druing weekdays
 
 
 ### Deliverable 3 Requirements
